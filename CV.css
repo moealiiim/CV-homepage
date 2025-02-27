@@ -1,0 +1,129 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: 'Roboto', sans-serif; /* Using Google Font */
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+/* Header and Navigation */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Adds space between menu items */
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+nav ul li a:hover {
+    background-color: #555; /* Hover effect for links */
+}
+
+nav ul li a.active {
+    background-color: #007BFF; /* Highlight active page */
+}
+
+/* Main Content Styling */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #007BFF;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #007BFF; /* Underline for section headings */
+    padding-bottom: 5px;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+ul {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+/* Links */
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+/* Footer Styling */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column; /* Stack menu items vertically on small screens */
+        gap: 10px;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+}
+
+.about img {
+    max-width: 100%; /* Makes the image responsive */
+    height: auto; /* Maintains aspect ratio */
+    border-radius: 10px; /* Rounded corners */
+    margin-top: 20px; /* Adds space above the image */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+}
