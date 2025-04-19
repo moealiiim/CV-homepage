@@ -1,0 +1,47 @@
+{
+    "namn": "Bilal Hassan Alim",
+    "kontakt": {
+      "email": "Bilalalim34@gmail.com",
+      "telefon": "0708932431",
+      "adress": "Storbyplan 23, 16371 Spånga"
+    },
+    "sammanfattning": "Engagerad och professionell väktare med gedigen erfarenhet av att säkerställa säkerheten på olika platser. Fullt utbildad och kompetent inom säkerhetsbranschen. Ansvarsfull och pålitlig med stark problemlösningsförmåga. Erfarenhet av arbete inom lager, truckkörning och som chaufför. Flytande på engelska, svenska och somaliska.",
+    "utbildning": [
+      {
+        "titel": "Gymnasium",
+        "skola": "Atletica Gymnasiet",
+        "år": "2019–2022",
+        "beskrivning": "Ekonomisk inriktning med relevanta kurser inom säkerhet och krishantering."
+      },
+      {
+        "titel": "Väktarutbildning",
+        "skola": "–",
+        "år": "",
+        "beskrivning": "Fullutbildad väktare. Kunskap om säkerhetsprotokoll, övervakningsteknik och riskbedömning. Hantering av inkommande samtal och larm. Förmåga att agera snabbt och korrekt vid behov."
+      }
+    ],
+    "erfarenhet": [
+      {
+        "företag": "Securitas AB",
+        "roll": "Väktare (Nuvarande anställning)",
+        "beskrivning": "Utförande av säkerhetskontroller och övervakning av passagekontroller och kameror. Ansvarig för att säkerställa säkerheten på olika platser och reagera på potentiella hot. Rapportering av avvikelser och incidenter samt samarbete för en trygg arbetsmiljö."
+      },
+      {
+        "företag": "Arena Personal Bemanningstjänst",
+        "roll": "Konsult",
+        "beskrivning": "Arbete hos olika kunder såsom Coca Cola, Frigo Scandia och Postnord. Uppgifter inkluderade lagerarbete, truckkörning och chaufförsarbete."
+      },
+      {
+        "företag": "Entreprenör",
+        "roll": "Entreprenörskap",
+        "beskrivning": "Samarbetade i grupp för att lösa problem och utveckla innovativa idéer för en vara eller tjänst. Reflekterade över risker och möjligheter samt planerade och implementerade projektet."
+      },
+      {
+        "företag": "Zalando",
+        "roll": "Kundtjänstmedarbetare",
+        "beskrivning": "Besvara frågor om produkter, storlekar, lagerstatus och leveranstider. Hjälpa kunder med returer, byten, återbetalningar eller reklamationer. Kommunikation via flera kanaler: e-post, chatt eller telefon. Använda kundserviceverktyg för att logga ärenden. Samarbeta med logistik eller IT vid behov."
+      }
+    ],
+    "språk": ["Engelska (flytande)", "Svenska (flytande)", "Somaliska (modersmål)"]
+  }
+  
